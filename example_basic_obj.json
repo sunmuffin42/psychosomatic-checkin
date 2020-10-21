@@ -18,8 +18,8 @@
     "pain":{
         "current migraine pain":6,
         "other pain":"shoulder ache (muscular)",
-        "other pain instensity:2
-    }
+        "other pain instensity":2
+    },
     "mental condition (1-10)":{
         "depression (pain-related)":3,
         "depression (not pain-related)":2,
@@ -31,10 +31,10 @@
         "sick-of-it-all-ness": 8
     },
     "potential triggers experienced recently":"went outside for about five minutes, it was sunny and hot",
-    "stimulants: {
-        "caffeine":0,
-        "amphetamines":1
-    }
+    "stimulants": {
+        "caffeine": 0,
+        "amphetamines": 1
+    },
     "treatments not yet recorded in today's entry":{
         "MMJ":{
             "quantity MMJ (mg)":0,
@@ -55,7 +55,7 @@
             "quantity Clonazepam (1mg pills)":0,
             "date":"0",                          // Option to be autofilled when n/a would be nice
             "time":"0"                           // Option to be autofilled when n/a would be nice
-        }
+        },
         "tiger balm":{
             "Tiger Balm":0,
             "date":"0",                          // Option to be autofilled when n/a would be nice
